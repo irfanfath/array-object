@@ -1,9 +1,13 @@
-Berikut langkah langkah pengujian code. 
+🛠️ Instalasi & Persiapan
 
-    Langkah-langkah pengujian fungsi algoritma
-        1. Silahkan memasukkan nilai input yang anda inginkan di file index.js
-        2. Jalankan perintah node index.js di terminal
-        3. Output console nya akan terlihat di terminal
+📌 Inisialisasi Proyek Node.js
+    `npm install`
 
-    Langkah-langkah menjalankan unit testing :
-        1. Jalankan perintah npm test pada terminal
+📌 Cara Menjalankan Kode
+    Jika ingin menjalankan kode secara manual dengan input sendiri, gunakan perintah berikut:
+    `node index.js`
+    Pastikan Anda sudah mengisi index.js dengan input yang ingin diuji.
+
+🧪 Cara Menjalankan Unit Test
+    Jalankan perintah berikut untuk mengetes apakah semua fungsi berjalan dengan benar:
+    `npm test`
